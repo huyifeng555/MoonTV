@@ -84,6 +84,20 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
-  }
-}
+    },
+    "feimao": {
+      "api": "https://肥猫.com",
+      "name": "肥猫"
+  },
+     "ftytj": {
+      "api": "http://www.饭太硬.com/tv/",
+      "name": "饭太硬推荐"
+},
+ "jkjy": {
+      "api": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+      "name": "健康家用"
+},
+    "xiaomi": {
+      "api": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "小米"
+},
